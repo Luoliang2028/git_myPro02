@@ -1,8 +1,9 @@
 package com.ccb.git;
 
 public class GitTest {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git2");
+        System.out.println("hello git3");
     }
 }
